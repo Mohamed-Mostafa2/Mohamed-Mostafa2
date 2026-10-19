@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Mo 👋
+### Software QA Engineer
+*Manual • Automation • API • Performance Testing*
 
-<!--
-**Mohamed-Mostafa2/Mohamed-Mostafa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📌 Featured Repositories
+- 🎭 **[Playwright-Automation](./):** Web E2E Testing with TypeScript & POM.
+- ⚡ **[JMeter-Performance-Testing](./):** Load & Stress Test Suites.
+- 🔌 **[API-Testing-Postman](./):** API testing using Postman and API Automation using Newman.
+- 📋 **[Manual-QA-Documentation](./):** Test Plans, Test Cases, Bug Reports, & Jira/Agile Workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **Tools & Methodology:** Jira • Agile/Scrum
+
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-username) | [Email](mailto:your-email@example.com)
