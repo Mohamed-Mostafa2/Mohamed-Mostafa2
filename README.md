@@ -1,4 +1,3 @@
-## Hi, I'm Mo 👋
 ### Software QA Engineer
 *Manual • Automation • API • Performance Testing*
 
@@ -14,4 +13,4 @@
 
 🛠️ **Tools & Methodology:** Jira • Agile/Scrum
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-username) | [Email](mailto:your-email@example.com)
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/m0hamed-mostafa) | [Email](mailto:moh.mostafa151@gmail.com)
